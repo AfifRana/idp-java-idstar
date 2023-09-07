@@ -1,0 +1,5 @@
+
+o
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(Çµí‘8ï½¸ú¦1
+C	java:S131""Add a default case to this switch.(²ÚÇÏøÿÿÿÿ8û½¸ú¦1
+U	java:S106?"9Replace this use of System.out or System.err by a logger.(”“î€8û½¸ú¦1
