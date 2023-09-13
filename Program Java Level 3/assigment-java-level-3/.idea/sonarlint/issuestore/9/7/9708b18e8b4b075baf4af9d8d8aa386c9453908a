@@ -1,7 +1,0 @@
-
-g	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(­íîßþÿÿÿÿ8´Âšì 1
-W
-java:S1141"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8·Âšì 1
-p
-java:S2095"NUse try-with-resources or close this "RandomAccessFile" in a "finally" clause.( »Î•ûÿÿÿÿ8ÂÂšì 1
-U	java:S106$"9Replace this use of System.out or System.err by a logger.(¡¾•ö8ÉÂšì 1

@@ -1,5 +1,5 @@
 Modus : 7
-Count 198
+Count : 198
 Value | Frequency
 7 : 62
 8 : 42
